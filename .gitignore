@@ -1,0 +1,20 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Secrets / keys
+**/credentials
+**/*secret*
+**/*token*
+**/*apikey*
+**/*accesskey*
+**/*.pem
+**/*.key
+
+# Terraform (future)
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
