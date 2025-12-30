@@ -1,2 +1,4 @@
-# cloud-security-track
-AWS cloud security artifacts: flAWS/flAWS2 misconfig labs + Security Hub/AWS Config workshops (Cloud Security Analyst → Junior Cloud Security Engineer).
+# Cloud Security Track (AWS)
+
+Portfolio artifacts from AWS cloud security training: flAWS/flAWS2 (misconfiguration scenarios) + AWS Workshops (Security Hub / AWS Config).
+Target roles: Cloud Security Analyst → Junior Cloud Security Engineer.
